@@ -1,7 +1,9 @@
-#BLOGPRESS
+# BLOGPRESS
+
 *A web-based blog platform*
 
-##Upcoming Features
+### Upcoming Features
+
 - Users can create accounts and login using a username and password. Users can also log out
 - Users can search for other users' names and follow their blogs
 - Users can see a list of blogs they follow on their home page
